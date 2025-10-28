@@ -70,7 +70,7 @@ a {
 
 .button {
     font-family: inherit;
-    background: #4D5AE5;
+    background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -111,7 +111,7 @@ a {
     color: #2E2F42;
 }
 
-.section-team .team-item {
+.team-item {
     background-color: #ffffff;
 }
 
