@@ -69,7 +69,7 @@ a {
 }
 
 .button {
-    font-family: "Roboto"; sans-serif;
+    font-family: inherit;
     background: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
@@ -82,10 +82,6 @@ a {
 .button:hover,
 .button:focus {
     background-color: #404BBF;
-}
-
-.section-skills-title {
-    display: none;
 }
 
 .skills-title {
